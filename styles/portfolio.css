@@ -32,6 +32,7 @@ nav{
     display: flex;
     justify-content:space-between;
     align-items: center;
+    margin:0,200px ;
  }
  .btn-primary{
     border-radius: 5px;
@@ -42,5 +43,17 @@ nav{
     font-weight:700;
     padding: 15px,20px ;
 
+}
+/* header related styles*/
+.header{
+    background-color: azure;
+}
+.banner{
+    padding:30px,30px,30px,150px ;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 200px;
 }
    
